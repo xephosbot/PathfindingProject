@@ -42,7 +42,7 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = C:\Users\Dell\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\231.8109.174\bin\cmake\win\x64\bin\cmake.exe --regenerate-during-build -SC:\Users\Dell\CLionProjects\Pathfinding -BC:\Users\Dell\CLionProjects\Pathfinding\cmake-build-debug
+  command = C:\Users\Dell\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\231.8109.174\bin\cmake\win\x64\bin\cmake.exe --regenerate-during-build -SC:\Users\Dell\CLionProjects\PathfindingProject -BC:\Users\Dell\CLionProjects\PathfindingProject\cmake-build-debug
   description = Re-running CMake...
   generator = 1
 

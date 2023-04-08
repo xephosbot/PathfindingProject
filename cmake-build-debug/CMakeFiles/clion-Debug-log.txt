@@ -1,4 +1,4 @@
-C:\Users\Dell\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\231.8109.174\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/Dell/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.8109.174/bin/ninja/win/x64/ninja.exe -G Ninja -S C:\Users\Dell\CLionProjects\Pathfinding -B C:\Users\Dell\CLionProjects\Pathfinding\cmake-build-debug
+C:\Users\Dell\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\231.8109.174\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/Dell/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.8109.174/bin/ninja/win/x64/ninja.exe -G Ninja -S C:\Users\Dell\CLionProjects\PathfindingProject -B C:\Users\Dell\CLionProjects\PathfindingProject\cmake-build-debug
 -- The C compiler identification is GNU 11.2.0
 -- The CXX compiler identification is GNU 11.2.0
 -- Detecting C compiler ABI info
@@ -13,4 +13,4 @@ C:\Users\Dell\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\231.8109.174\bin\c
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: C:/Users/Dell/CLionProjects/Pathfinding/cmake-build-debug
+-- Build files have been written to: C:/Users/Dell/CLionProjects/PathfindingProject/cmake-build-debug

@@ -69,7 +69,7 @@
 			[
 				{
 					"backtrace" : 4,
-					"path" : "C:/Users/Dell/CLionProjects/Pathfinding/GLFW/include"
+					"path" : "C:/Users/Dell/CLionProjects/PathfindingProject/GLFW/include"
 				}
 			],
 			"language" : "CXX",
@@ -109,7 +109,7 @@
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "-LC:\\Users\\Dell\\CLionProjects\\Pathfinding\\GLFW\\lib-mingw-w64",
+				"fragment" : "-LC:\\Users\\Dell\\CLionProjects\\PathfindingProject\\GLFW\\lib-mingw-w64",
 				"role" : "libraryPath"
 			},
 			{

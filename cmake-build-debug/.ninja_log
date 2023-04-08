@@ -1,20 +1,11 @@
 # ninja log v5
-13	186	6955792143441530	CMakeFiles/Pathfinding.dir/render/drawer.cpp.obj	1e17b88c2f274da9
-10	832	6957542504640732	CMakeFiles/Pathfinding.dir/math/vector.cpp.obj	88ca8b1889c5cbbd
-4	839	6957842238343542	CMakeFiles/Pathfinding.dir/main.cpp.obj	a81373e5ea0c0260
-187	356	6955792145163984	CMakeFiles/Pathfinding.dir/render/color.cpp.obj	c23cab9eb8358927
-1316	1693	6957842246808824	Pathfinding.exe	cf6b774038be7de7
-7	360	7018138447387653	build.ninja	417a0197e9983e36
-10	1030	6957842240247032	CMakeFiles/Pathfinding.dir/render/drawable.cpp.obj	9481d07df5a6ea6b
-15	1317	6957542509473163	CMakeFiles/Pathfinding.dir/math/grid.cpp.obj	54a1bf9ff61fcc55
-7	1316	6957842243093604	CMakeFiles/Pathfinding.dir/math/algorithms.cpp.obj	ebe03136d267606f
-32	1099	6957542507307708	CMakeFiles/Pathfinding.dir/render/input.cpp.obj	aebe52e73ba4bfeb
 20	309	7018139171252126	CMakeFiles/Pathfinding.dir/render/drawer.cpp.obj	5bfd5ce75dcf71a2
 14	1035	7018139178567705	CMakeFiles/Pathfinding.dir/math/vector.cpp.obj	67e0571b7bd7f5ff
-1036	1157	7018139179756150	CMakeFiles/Pathfinding.dir/render/color.cpp.obj	995dd7c36a823992
-35	1284	7018139181053130	CMakeFiles/Pathfinding.dir/render/input.cpp.obj	4dfeb4c391d3b7a7
 2	1406	7018139182285518	CMakeFiles/Pathfinding.dir/main.cpp.obj	f09de9a495ca08ee
-8	1459	7018139182813608	CMakeFiles/Pathfinding.dir/math/grid.cpp.obj	d864f057265a1322
-26	1637	7018139184579969	CMakeFiles/Pathfinding.dir/render/drawable.cpp.obj	72c31577816a6c1e
-310	2224	7018139190460980	CMakeFiles/Pathfinding.dir/math/algorithms.cpp.obj	ef3c7173f95c648e
+1036	1157	7018139179756150	CMakeFiles/Pathfinding.dir/render/color.cpp.obj	995dd7c36a823992
 2225	2615	7018139194312290	Pathfinding.exe	463e0dae510c28c9
+7	360	7026788114401490	build.ninja	417a0197e9983e36
+26	1637	7018139184579969	CMakeFiles/Pathfinding.dir/render/drawable.cpp.obj	72c31577816a6c1e
+8	1459	7018139182813608	CMakeFiles/Pathfinding.dir/math/grid.cpp.obj	d864f057265a1322
+310	2224	7018139190460980	CMakeFiles/Pathfinding.dir/math/algorithms.cpp.obj	ef3c7173f95c648e
+35	1284	7018139181053130	CMakeFiles/Pathfinding.dir/render/input.cpp.obj	4dfeb4c391d3b7a7

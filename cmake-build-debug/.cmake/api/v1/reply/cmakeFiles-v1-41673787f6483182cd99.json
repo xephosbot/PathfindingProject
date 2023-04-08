@@ -777,8 +777,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "C:/Users/Dell/CLionProjects/Pathfinding/cmake-build-debug",
-		"source" : "C:/Users/Dell/CLionProjects/Pathfinding"
+		"build" : "C:/Users/Dell/CLionProjects/PathfindingProject/cmake-build-debug",
+		"source" : "C:/Users/Dell/CLionProjects/PathfindingProject"
 	},
 	"version" : 
 	{

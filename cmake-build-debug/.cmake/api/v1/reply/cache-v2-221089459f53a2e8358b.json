@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/Dell/CLionProjects/Pathfinding/cmake-build-debug"
+			"value" : "c:/Users/Dell/CLionProjects/PathfindingProject/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Dell/CLionProjects/Pathfinding/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/Dell/CLionProjects/PathfindingProject/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -647,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/Dell/CLionProjects/Pathfinding"
+			"value" : "C:/Users/Dell/CLionProjects/PathfindingProject"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1263,7 +1263,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Dell/CLionProjects/Pathfinding/cmake-build-debug"
+			"value" : "C:/Users/Dell/CLionProjects/PathfindingProject/cmake-build-debug"
 		},
 		{
 			"name" : "Pathfinding_IS_TOP_LEVEL",
@@ -1287,7 +1287,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Dell/CLionProjects/Pathfinding"
+			"value" : "C:/Users/Dell/CLionProjects/PathfindingProject"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
