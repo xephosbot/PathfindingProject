@@ -1,4 +1,0 @@
-C:\Users\Dell\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\231.8109.174\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/Dell/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.8109.174/bin/ninja/win/x64/ninja.exe -G Ninja -S C:\Users\Dell\CLionProjects\PathfindingProject -B C:\Users\Dell\CLionProjects\PathfindingProject\cmake-build-debug
--- Configuring done
--- Generating done
--- Build files have been written to: C:/Users/Dell/CLionProjects/PathfindingProject/cmake-build-debug

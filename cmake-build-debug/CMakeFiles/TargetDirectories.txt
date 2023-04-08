@@ -1,3 +1,0 @@
-C:/Users/Dell/CLionProjects/PathfindingProject/cmake-build-debug/CMakeFiles/Pathfinding.dir
-C:/Users/Dell/CLionProjects/PathfindingProject/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Dell/CLionProjects/PathfindingProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
